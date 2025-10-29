@@ -1,0 +1,18 @@
+# Pure Data backup files
+*.pd~
+
+# Temporary files
+*.tmp
+*.temp
+
+# Audio files (if generated)
+*.wav
+*.aiff
+*.mp3
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
